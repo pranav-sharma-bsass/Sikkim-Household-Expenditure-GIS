@@ -1,6 +1,6 @@
 # Does Where You Live Decide How You Spend? Household Expenditure Analysis, Sikkim
 
-A spatial analysis of household expenditure patterns across Sikkim's four districts using NSS 72nd Round data (2014-15), GIS mapping, and statistical analysis.
+This report is one of my assignments on **GIS** in my second year of Bachelors of Science in Analytics and Sustainability Studies. This report is a spatial analysis of household expenditure patterns across Sikkim's four districts using NSS 72nd Round data (2014-15), GIS mapping, and statistical analysis.
 
 ---
 
