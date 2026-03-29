@@ -106,7 +106,7 @@ Sikkim-Household-Expenditure-GIS/
 
 ## Report
 
-[Click here to view the full report](report/SIKKIM-HOUSEHOLD-EXPENDITURE-GIS.pdf)
+[Click here to read my full analysis](report/SIKKIM-HOUSEHOLD-EXPENDITURE-GIS.pdf)
 
 ---
 
