@@ -110,4 +110,4 @@ Sikkim-Household-Expenditure-GIS/
 
 ---
 
-*Made by Pranav Sharma · BS Analytics and Sustainability Studies · TISS Mumbai · Sem III*
+*Made by Pranav Sharma · BS Analytics and Sustainability Studies · TISS Mumbai · Sem III-IV*
