@@ -25,17 +25,17 @@ This study uses NSS household expenditure data to answer two questions:
 
 ---
 
-## Maps
+## Visualisations
 
-![](maps/Domestic-Average-Expenditure.png)
-![](maps/Domestic-Average-HouseholdSize.png)
-![](maps/Rural-Weighted-Average-Expense.png)
-![](maps/Rural-Weighted-Average-HouseholdSize.png)
-![](maps/Sikkim-Map-Reprojected.png)
-![](maps/StandardDeviation-Domestic-Household-Expense.png)
-![](maps/StandardDeviation-Domestic-Household-Size.png)
-![](maps/Urban-Average-Weighted-Expense.png)
-![](maps/Urban-Average-Weighted-HouseholdSize.png)
+![](visualisations/Domestic-Average-Expenditure.png)
+![](visualisations/Domestic-Average-HouseholdSize.png)
+![](visualisations/Rural-Weighted-Average-Expense.png)
+![](visualisations/Rural-Weighted-Average-HouseholdSize.png)
+![](visualisations/Sikkim-Map-Reprojected.png)
+![](visualisations/StandardDeviation-Domestic-Household-Expense.png)
+![](visualisations/StandardDeviation-Domestic-Household-Size.png)
+![](visualisations/Urban-Average-Weighted-Expense.png)
+![](visualisations/Urban-Average-Weighted-HouseholdSize.png)
 
 ---
 ## What the Maps Show
